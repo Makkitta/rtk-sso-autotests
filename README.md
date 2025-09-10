@@ -10,7 +10,7 @@
 - Автоматическое переключение табов при вводе
 - Авторизация по временному коду
 
-### 2. Тесты регистрации (test_registration.py)
+### 2. Тесты регистрации [(test_registration.py)](https://github.com/Makkitta/rtk-sso-autotests/blob/main/Rostelekom_auth/tests/test_registration.py)
 - Успешная регистрация нового пользователя
 - Валидация полей (граничные значения)
 - Регистрация с уже существующими данными
